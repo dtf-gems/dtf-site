@@ -16,7 +16,7 @@ GEM
       cri (~> 2.2)
     nanoc3 (3.3.0)
       nanoc (>= 3.3.0)
-    rack (1.4.1)
+    rack (1.6.12)
     sass (3.2.1)
 
 PLATFORMS
